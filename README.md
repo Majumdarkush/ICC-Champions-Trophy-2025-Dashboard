@@ -209,7 +209,7 @@ Field First Wins = COUNTROWS(FILTER(Matches, Matches[Toss Winner] = Matches[Winn
 
 # Report Snapshot (Power BI DESKTOP)
 
-<img width="1274" height="723" alt="Image" src="https://github.com/user-attachments/assets/7fb6733a-4288-4cd3-8acb-5d211fec8ec7" />
+<img width="1304" height="753" alt="Image" src="https://github.com/user-attachments/assets/4af07794-cb42-4f89-abde-fac190dedc57" />
 
 ## Insights
 
